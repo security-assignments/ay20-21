@@ -4,6 +4,8 @@ title: Information Security Management | Assignments
 
 # {{ page.title }}
 
+_Version: Academic year 2020-2021_
+
 {% include attribution.html %}
 
 ## [Labs]( {{ '/labs/' | relative_url }} )
